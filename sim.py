@@ -35,7 +35,7 @@ B = np.array([0.0, 0.0, 1.0])
 dt = 0.01
 
 # # Of total frames 
-steps = 20000
+steps = 2000
 
 
 # position initially starts at the origin
