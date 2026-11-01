@@ -1,5 +1,3 @@
-# particle-sim
-
 # Charged Particle in a Magnetic Field
 
 A short Python simulation of a charged particle moving through a uniform magnetic field, using the Lorentz force F = q(v × B).
